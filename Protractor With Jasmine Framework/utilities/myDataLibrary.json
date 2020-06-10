@@ -1,0 +1,19 @@
+[
+	
+	{
+		"TestCaseID": "test1.js",
+		"Data": {
+			"Username": "mayank",
+			"Password": "Open@005"
+		}
+	},
+		{
+		"TestCaseID": "test2.js",
+		"Data": {
+			"Username": "pooja",
+			"Password": "Open@005"
+			
+		}
+	}
+	
+]
